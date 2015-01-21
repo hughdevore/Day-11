@@ -1,0 +1,16 @@
+
+body {
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#time {
+	font-size: 100px;
+	color: white;
+	font-family: 'Patua One', cursive;
+	position: fixed;
+	padding 2em;
+
+}
